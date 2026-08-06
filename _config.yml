@@ -3,17 +3,25 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: sanleches.io
+subtitle: Systems, embedded software, and practical engineering
+description: >-
+  I'm Santiago Ugarte, a software developer based in Ottawa and currently at
+  Kinaxis. My background spans computer engineering technology, computer
+  science, and mechatronics. I enjoy building close to the hardware with C++,
+  C, Linux, embedded systems, Qt, and CMake.
+
+
+  This is where I document projects, experiments, and lessons learned while
+  building software and hardware.
+keywords: C++, C, Linux, embedded systems, Qt, CMake, mechatronics, software engineering
+author: Santiago Ugarte
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://sanleches.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +104,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

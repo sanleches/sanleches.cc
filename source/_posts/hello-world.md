@@ -1,38 +1,9 @@
 ---
-title: Hello World
+title: Welcome to sanleches.io
+date: 2026-08-06
+category: notes
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+This site is my place to document projects, experiments, and practical lessons from software engineering, embedded systems, Linux, and modern C++.
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+The first project notes will cover the hardware and software behind [RadioHijackCpp](https://github.com/sanleches/RadioHijackCpp), including the Raspberry Pi Pico 2 W, the RDA5807M FM receiver, and the local control API.

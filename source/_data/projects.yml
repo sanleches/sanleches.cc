@@ -1,0 +1,19 @@
+radio-hijack:
+  name: RadioHijackCpp
+  url: https://github.com/sanleches/RadioHijackCpp
+  desc: Control an RDA5807M FM receiver from a Raspberry Pi Pico 2 W through a local API and web interface.
+
+qt-template:
+  name: cpp_qt_blank
+  url: https://github.com/sanleches/cpp_qt_blank
+  desc: A Qt 6 application template with build, test, dependency-check, and VS Code tooling.
+
+cpp-cheatsheet:
+  name: Cpp11PracticeCheatsheet
+  url: https://github.com/sanleches/Cpp11PracticeCheatsheet
+  desc: Focused C++ samples for documentation-assisted practice and language recall.
+
+cmake-template:
+  name: CMakeTemplate
+  url: https://github.com/sanleches/CMakeTemplate
+  desc: A compact starting point for modern C++ projects using CMake.
