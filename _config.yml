@@ -5,16 +5,30 @@
 # Site
 title: sanleches.io
 subtitle: Systems, embedded software, and practical engineering
-description: >-
-  I'm Santiago Ugarte, a software developer based in Ottawa and currently at
-  Kinaxis. My background spans computer engineering technology, computer
-  science, and mechatronics. I enjoy building close to the hardware with C++,
-  C, Linux, embedded systems, Qt, and CMake.
+description: |-
+  I'm Santiago Ugarte, a software developer based in Ottawa and currently at Kinaxis. My background spans computer engineering technology, computer science, and mechatronics. I build with C++, C, Linux, embedded systems, Qt, CMake, .NET, and practical AI/RAG systems.
 
+  This is where I document projects, experiments, and lessons learned while building software and hardware.
 
-  This is where I document projects, experiments, and lessons learned while
-  building software and hardware.
-keywords: C++, C, Linux, embedded systems, Qt, CMake, mechatronics, software engineering
+  ## Contract Work
+
+  I'm open to contract development, consulting, and interesting technical collaborations.
+
+  - C and C++ systems development
+  - Embedded firmware and hardware integration
+  - Linux tooling, device interfaces, and driver prototypes
+  - Qt applications, CMake builds, and developer tooling
+  - .NET web applications, RAG pipelines, vector search, and internal AI tools
+  - Technical prototypes, debugging, and codebase cleanup
+
+  I like projects where I can dig below the surface, understand how the pieces actually work, and leave behind code that is easier to reason about. Short projects, ongoing contract work, and unusual hardware or systems problems are all welcome.
+
+  [Contact me by email](mailto:santiago.ugarte98@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/santiago-ugarte-419200152) to discuss a project.
+
+  ## Recognition
+
+  FluKsAI won second place in the [2025 Legal AI Innovators Award](https://ironcladapp.com/resources/articles/winners-legal-ai-innovators-award-2025). [Read the build story](/2025/03/06/fluksai-contract-rag/).
+keywords: C++, C, Linux, embedded systems, Qt, CMake, .NET, AI, RAG, vector search, mechatronics, software engineering
 author: Santiago Ugarte
 language: en
 timezone: ''

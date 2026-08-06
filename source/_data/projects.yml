@@ -3,17 +3,27 @@ radio-hijack:
   url: https://github.com/sanleches/RadioHijackCpp
   desc: Control an RDA5807M FM receiver from a Raspberry Pi Pico 2 W through a local API and web interface.
 
-qt-template:
-  name: cpp_qt_blank
-  url: https://github.com/sanleches/cpp_qt_blank
-  desc: A Qt 6 application template with build, test, dependency-check, and VS Code tooling.
+ish:
+  name: Ish
+  url: https://github.com/sanleches/Ish
+  desc: A hand-written compiler front end in C with a scanner, recursive-descent parser, AST, and symbol table.
 
-cpp-cheatsheet:
-  name: Cpp11PracticeCheatsheet
-  url: https://github.com/sanleches/Cpp11PracticeCheatsheet
-  desc: Focused C++ samples for documentation-assisted practice and language recall.
+pgof:
+  name: Parking Garage of the Future
+  url: https://github.com/sanleches/PGOF
+  desc: A C++17 parking simulation with compatible-space selection, queue handling, fees, reports, and tests.
 
-cmake-template:
-  name: CMakeTemplate
-  url: https://github.com/sanleches/CMakeTemplate
-  desc: A compact starting point for modern C++ projects using CMake.
+wallpaper-randomizer:
+  name: GNOME Wallpaper Randomizer
+  url: https://github.com/sanleches/gnome-wallpaper-randomizer
+  desc: A tiny Bash and XDG autostart utility that picks a random wallpaper whenever GNOME starts.
+
+linux-drivers:
+  name: Linux Driver Introduction
+  url: https://github.com/sanleches/linux_driver_introduction
+  desc: Small kernel modules that explore lifecycle callbacks, logging, character devices, VFS operations, and USB discovery.
+
+fluksai:
+  name: FluKsAI
+  url: https://ironcladapp.com/resources/articles/winners-legal-ai-innovators-award-2025
+  desc: An award-winning .NET and RAG application for ingesting, organizing, semantically searching, and reviewing a large contract repository.
