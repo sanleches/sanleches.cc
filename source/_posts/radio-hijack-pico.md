@@ -13,7 +13,7 @@ At an F1 event they handed out tiny FM radios. Most people probably used them no
 
 The result is [RadioHijackCpp](https://github.com/sanleches/RadioHijackCpp): C++17 firmware for a Raspberry Pi Pico 2 W that controls the radio over I2C and serves a small browser UI. It tunes, seeks, scans, changes volume, handles presets, and displays RDS station data. This is a Pico SDK rewrite of my earlier MicroPython version.
 
-## The hardware
+## Hardware
 
 The connection is pleasantly small:
 
