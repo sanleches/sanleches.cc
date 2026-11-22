@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sanleches.io
+title: sanleches.cc
 subtitle: Systems, embedded software, and practical engineering
 description: |-
   I'm Santiago Ugarte, a software developer based in Ottawa and currently at Kinaxis. My background spans computer engineering technology, computer science, and mechatronics. I build with C++, C, Linux, embedded systems, Qt, CMake, .NET, and practical AI/RAG systems.
@@ -35,7 +35,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://sanleches.io
+url: https://sanleches.cc
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
